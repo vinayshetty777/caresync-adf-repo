@@ -1,0 +1,15 @@
+{
+	"name": "adf-caresync-demo",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "swedencentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "28b2d461-6f5d-4401-b872-48d72c7e0024",
+		"tenantId": "4c7ded1d-b5b5-4e45-a94a-fd08f9194e87"
+	}
+}
